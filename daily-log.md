@@ -24,3 +24,26 @@
 ## Tomorrow Plan
 - File permissions
 - touch, cp, mv commands
+---
+
+# Day 2 - May 28, 2026
+
+## Topics Learned
+- File permissions
+- chmod
+- chown
+
+## Practical Done
+- Created users
+- Changed permissions
+
+## GitHub Activity
+- Updated Linux notes
+
+## Doubts
+- Numeric permissions
+
+## Tomorrow Plan
+- grep
+- find
+- vim editor
